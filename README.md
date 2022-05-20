@@ -1,6 +1,6 @@
 # ADS
 
-## Zadanie č.
+## Zadanie č. 1
 
 
 Máme súbor *dictionary.txt*. Súbor obsahuje slová z nejakého anglického textu spolu s frekvenciou ich výskytu. Slová obsahujú iba malé písmená anglickej abecedy, t.j. ASCII znaky 97 až 122. Jeden riadok súboru  obsahuje  frekvenciu  výskytu  slova  a  samotné  slovo.  Frekvencia  a  slovo  sú  oddelené medzerou. Slová sú v súbore usporiadané podľa frekvencie výskytu: slovo s najvyššou frekvenciou je v prvom riadku, slovo s najnižšou frekvenciou výskytu je v poslednom riadku. 
