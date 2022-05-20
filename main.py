@@ -1,3 +1,11 @@
+"""
+Author: Bc. Simon Youssef
+Coppyright 2022 All Rights Reserved.
+Resources:
+https://cp-algorithms.com/graph/2SAT.html
+"""
+
+
 from collections import defaultdict
 
 
