@@ -1,3 +1,13 @@
+"""
+Authors: Bc. Simon Youssef
+Coppyright 2022 All Rights Reserved.
+Resources:
+https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/
+https://www.geeksforgeeks.org/closest-pair-of-points-using-divide-and-conquer-algorithm/
+https://stackoverflow.com/a/70303689/15214377
+"""
+
+
 import math
 from time import perf_counter
 from scipy import spatial
