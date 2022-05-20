@@ -14,10 +14,4 @@ Vašou úlohou je zostrojiť **optimálny** binárny vyhľadávací strom pre vy
 
 ![](img1.png)
 
-Okrem toho, vytvorte funkciu **pocet\_porovnani()**. Vstupom do funkcie bude reťazec. Funkcia vráti počet porovnaní, ktoré sa vykonajú počas hľadania vstupného reťazca v zostrojenom optimálnom binárnom vyhľadávacom strome.**  
-
-**Odovzdavanie:****  
-
-**Do vytvoreného miesta odovzdania odovzdajte zdrojové súbory. Hodnotia sa len zadania odovzdané do AISu !!!**  
-
-**Pre získanie bodov zo zadania je potrebné riešenie odprezentovať (na cvičení) v termíne po dohode  s cvičiacimi !!!**
+Okrem toho, vytvorte funkciu **pocet\_porovnani()**. Vstupom do funkcie bude reťazec. Funkcia vráti počet porovnaní, ktoré sa vykonajú počas hľadania vstupného reťazca v zostrojenom optimálnom binárnom vyhľadávacom strome.
