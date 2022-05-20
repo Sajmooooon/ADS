@@ -1,3 +1,12 @@
+"""
+Authors: Bc. Simon Youssef
+Coppyright 2022 All Rights Reserved.
+Resources:
+https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
+https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/
+"""
+
+
 import numpy as np
 from sortedcontainers import SortedDict
 
