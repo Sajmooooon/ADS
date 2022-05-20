@@ -1,3 +1,13 @@
+"""
+Author: Bc. Simon Youssef
+Coppyright 2022 All Rights Reserved.
+Resources:
+https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
+https://www.geeksforgeeks.org/edit-distance-dp-5/?ref=gcse
+https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
+"""
+
+
 import math
 import datetime
 import os.path
