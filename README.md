@@ -12,7 +12,7 @@ Vašou úlohou je zostrojiť **optimálny** binárny vyhľadávací strom pre vy
 - Pravdepodobnosť p\_i, že vyhľadávame kľúč k\_i, vypočítajte ako podiel frekvencie výskytu slova k\_i a súčtu frekvencií výskytu všetkých slov v súbore *dictionary.txt*.  
 - Uvažujeme, že budeme vyhľadávať iba slová zo súboru *dictionary.txt*. Pravdepodobnosť q\_i, že  vyhľadávame  slovo,  ktoré  je  v  lexikografickom  usporiadaní  medzi  k\_i  a  k\_{i+1},  preto vypočítajte  ako  podiel  súčtu  frekvencií  výskytu  tých  slov  z  *dictionary.txt*,  ktoré  sú  v lexikografickom usporiadaní medzi k\_i a k\_{i+1}, a súčtu frekvencií výskytu všetkých slov  v *dictionary.txt (pozri vzorec nižšie)*. Analogicky vypočítajte aj pravdepodobnosti q\_0 a q\_n. 
 
-![](img.png)
+![](img1.png)
 
 Okrem toho, vytvorte funkciu **pocet\_porovnani()**. Vstupom do funkcie bude reťazec. Funkcia vráti počet porovnaní, ktoré sa vykonajú počas hľadania vstupného reťazca v zostrojenom optimálnom binárnom vyhľadávacom strome.**  
 
